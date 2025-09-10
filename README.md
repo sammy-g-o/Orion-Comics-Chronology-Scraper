@@ -9,7 +9,7 @@ pip install requests beautifulsoup4
 # How to Use
 Make sure all prerequisites are installed.
 Run the script from your terminal:
-python "get chronological order for orion's appearance in comics.txt"
+python orion.py
 
 
 The script will connect to the dc.fandom.com page for Orion, scrape the reference list, and save the cleaned-up text to a new file named orion_reading_guide.txt.
